@@ -1,0 +1,13 @@
+Resumen
+Este informe documenta un análisis exhaustivo sobre las posibles causas de fallas en tiras LED Flex monocolor, utilizadas en aplicaciones como decoración y publicidad. 
+Las fallas reportadas por el cliente se presentan principalmente en los LED cercanos a las soldaduras, que aparentemente “se queman” o no encienden. 
+Se realizaron pruebas en una muestra de nueve tiras de diferentes longitudes y un rollo adicional de 1200 cm, analizando el estado inicial, voltajes, corrientes, y efectos 
+de factores externos como estática y ciclos de encendido/apagado. Los resultados permitieron identificar las causas principales y emitir recomendaciones para mejorar el
+desempeño y durabilidad de las tiras LED.
+1.	Introducción
+Las tiras LED Flex son componentes electrónicos ampliamente utilizados gracias a su flexibilidad, durabilidad y facilidad de instalación. Cada metro contiene 120 Leds 
+encapsulados en un material siliconado que protege el PCB flexible.
+Objetivos del estudio:
+Identificar las causas de las fallas reportadas.
+Determinar el impacto de la técnica de soldadura, la estática y otros factores.
+Proponer recomendaciones para mitigar futuros problemas.
